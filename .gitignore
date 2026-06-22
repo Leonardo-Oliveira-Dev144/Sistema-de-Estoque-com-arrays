@@ -1,0 +1,31 @@
+### IntelliJ ###
+.idea/
+*.iml
+*.xml
+
+# Diretórios de build
+out/
+target/
+build/
+
+# Arquivos compilados
+*.class
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Arquivos de pacotes Java
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Crash logs da JVM
+hs_err_pid*
+replay_pid*
